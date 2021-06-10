@@ -2,7 +2,7 @@
 
 # Vantagens do uso da Programação Orientada a Objetos (POO)
 
-C-O-M-E-R-N-a-d-a
+C-O-M-E-R-N-ada
 
 # Confiável
 "O isolamento entre as partes gera software seguro. Ao alterar uma parte, nehuma outra é afetada."
