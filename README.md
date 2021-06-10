@@ -1,1 +1,2 @@
-Repositório destinado as aulas do curso em vídeo do gustavo Guanabara do curso de java POO.
+## Repositório destinado as meus conhecimentos sobre orientação a objeto sequindo o curso de Java POO do professor: Gustavo guanabara
+## Curso em vídeo.
