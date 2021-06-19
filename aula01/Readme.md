@@ -1,3 +1,4 @@
+
 # aula01 do curso de java POO
 
 # Vantagens do uso da Programação Orientada a Objetos (POO)
@@ -17,7 +18,12 @@ C-O-M-E-R-N-ada
 " O software não é estático. Ele deve crescer para permanecer útil."
 
 # Reutilizável
-" Podemos usar objetos de um sistema que criamos em outro sistema futuro"
+" Podemos usar objetos de um sistema que criamos em outro sistema futuro."
 
 # Natural
 " Mais fácil de entender. Você se preocupa mais na funcionalidade do que nos detalhes de implementação."
+
+
+
+_Criador da  Orientação a Objetos:Alan kay_
+_Objetivo: Aproximar o mundo digital do mundo real_
